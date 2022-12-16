@@ -1,0 +1,8 @@
+{
+    "editor.cursorBlinking": "blink",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "liste_chainees.c": "c",
+        "liste_chainees.C": "cpp"
+    }
+}
